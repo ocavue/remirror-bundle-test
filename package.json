@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^11.1.2",
+    "@remirror/extension-file": "^0.2.4",
     "@types/react": "17.0.24",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
